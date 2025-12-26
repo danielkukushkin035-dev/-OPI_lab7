@@ -6,3 +6,4 @@
 цд
 ВРПО
 курс 1,группа 5,подгруппа 1
+https://github.com/settings/
